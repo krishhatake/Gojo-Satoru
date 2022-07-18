@@ -24,7 +24,7 @@ global.premium = ['919172673114']
 global.ownernomer = '919172673114'
 global.ownername = 'ᴏꭗ ᤱ ɪᴛᴀ֟፝ᴄʜɪ﹤ᴣ'
 global.botname = 'ᴏꭗ᭼ᴛᴏ֟፝ⲃɪ﹤ᴣ'
-global.footer = '©ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔'
+global.footer = 'ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔'
 global.ig = 'https://instagram.com/say.scotch?igshid=YmMyMTA2M2Y='
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Scotxh/Gojo-Satoru/'
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = 'https://i.ibb.co/Jk5xFpp/say-scotch-Love-Brecklist.jpg'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
