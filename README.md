@@ -8,7 +8,7 @@
 
 > [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
 	
-> [Recoded By scotch Author Of The Bot-Md Nexus](https://github.com/Scotxh/Gojo-Satoru) by [scotxh] (github.com/scotxh)
+> [Recoded By scotch Author Of The Bot-Md Nexus](https://github.com/Scotxh/Gojo-Satoru) by [scotxh](github.com/scotxh)
 	
 	
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
