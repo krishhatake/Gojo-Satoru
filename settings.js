@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919172673114']
-global.premium = ['919172673114']
-global.ownernomer = '919172673114'
-global.ownername = 'ᴏꭗ ᤱ ɪᴛᴀ֟፝ᴄʜɪ﹤ᴣ'
-global.botname = 'ᴏꭗ᭼ᴛᴏ֟፝ⲃɪ﹤ᴣ'
-global.footer = 'ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔'
-global.ig = 'https://instagram.com/say.scotch?igshid=YmMyMTA2M2Y='
+global.owner = ['918446298623']
+global.premium = ['918446298623']
+global.ownernomer = '918446298623'
+global.ownername = '★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★'
+global.botname = '★⃝❥︎𝐾𝛬𝐾𝛬𝑆𝐻𝐼-♡︎-𝑀𝐼𝑁𝐴★⃝❥︎'
+global.footer = '★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★'
+global.ig = 'https://https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=user_system_sheet&utm_content=mg9n51y'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Scotxh/Gojo-Satoru/'
-global.myweb = 'https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw'
-global.packname = 'ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔'
-global.author = 'ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔'
+global.myweb = 'https://https://youtube.com/channel/UCulchmkEi38d2kHL9RFlxvA'
+global.packname = '★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★'
+global.author = '★⃝❥︎𝐾𝛬𝐾𝛬𝑆𝐻𝐼-♡︎-𝑀𝐼𝑁𝐴★⃝❥︎'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
