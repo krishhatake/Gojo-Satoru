@@ -7,7 +7,9 @@
 > <a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
-> [Recoded By scotch Author Of The Bot-Md Nexus] (https://github.com/Scotxh/Gojo-Satoru) by [Scotch]
+> [Recoded By scotch Author Of The Bot-Md Nexus](https://github.com/Scotxh/Gojo-Satoru) by [scotch]
+	
+	
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
 > If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/scotxh/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
